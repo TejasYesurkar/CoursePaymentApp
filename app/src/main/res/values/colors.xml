@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE4660</color>
+    <!--    <color name="colorPrimary">#ED3439</color>-->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorAlt1">#FFF</color>
+    <color name="colorAlt2">#FFF</color>
+
+    <color name="colorTextDarkYellow">#B16E02</color>
+    <color name="colorTextDarkRed">#FE4660</color>
+    <!--    <color name="colorTextDarkRed">#D10204</color>-->
+    <color name="colorTextDarkGreen">#79C006</color>
+    <color name="colorBlueButton">#076BB9</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDarkText">#545252</color>
+    <color name="colorLightText">#525151</color>
+    <color name="colorGray">#808080</color>
+    <color name="colorLightGrayBorder">#f1f1f1</color>
+    <color name="colorLightRedBorder">#E35E5E</color>
+    <color name="colorLightGrayE9E9E9">#E9E9E9</color>
+    <color name="colorDarkGray">#838383</color>
+    <color name="colorDarkRed">#FED346</color>
+    <!--    <color name="colorDarkRed">#A90000</color>-->
+
+    <color name="colorRed">#FE4660</color>
+    <!--    <color name="colorRed">#ED3439</color>-->
+
+    <color name="colorBorderRed">#A90000</color>
+    <color name="colorRowBackground">#F1F1F1</color>
+    <color name="textColorHint">#666666</color>
+    <color name="textColor">#383838</color>
+    <color name="colorYellow">#F1B22B</color>
+    <color name="backgroundrow">#f6f6f6</color>
+    <color name="textcolor">#ec1029</color>
+    <color name="colorSeparator">#d3d3d3</color>
+    <color name="green_light">#68cb6b</color>
+    <color name="scrim">#42000000</color>
+</resources>
